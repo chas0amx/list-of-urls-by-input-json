@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/validator": "^4.3",
+        "jakeasmith/http_build_url": "^1"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.4"
+    }
+}

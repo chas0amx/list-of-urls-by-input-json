@@ -1,0 +1,36 @@
+[
+  {
+    "scheme": "htetate",
+    "domain_name": "--Ё!%:;?52www-domain2",
+    "path": "path/to/file",
+    "fragment": "header2",
+    "port": "twentytwo"
+  },
+  {
+    "scheme": "http",
+    "domain_name": "www.com",
+    "disabled": true
+  },
+  {
+    "scheme": "htts",
+    "domain_name": "winorlose",
+    "disabled": true
+  },
+  {
+    "scheme": "https",
+    "domain_name": "www.somedomain.com",
+    "path": "some/path",
+    "query": {
+      "key1": "value1",
+      "key2": "value2"
+    }
+  },
+  {
+    "scheme": "https",
+    "path": "some/path",
+    "query": {
+      "key1": "value1",
+      "key2": "value2"
+    }
+  }
+]

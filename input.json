@@ -1,0 +1,23 @@
+[
+  {
+    "scheme": "http",
+    "domain_name": "www.google.com",
+    "path": "path/to/file",
+    "fragment": "header2"
+  },
+  {
+    "scheme": "http",
+    "domain_name": "www.domain2.com",
+    "disabled": true,
+    "port": 22
+  },
+  {
+    "scheme": "https",
+    "domain_name": "www.somedomain.com",
+    "path": "some/path",
+    "query": {
+      "key1": "value1",
+      "key2": "value2"
+    }
+  }
+]
