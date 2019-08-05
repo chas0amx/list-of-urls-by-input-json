@@ -22,7 +22,7 @@ TODO:
 `make run-incorrect`
 
 ### Run with incorrect json format:
-`run-broken-json-errors-only`
+`make run-broken-json-errors-only`
 
 ### Remove (un)used docker images:
 `make remove-unused-images`
